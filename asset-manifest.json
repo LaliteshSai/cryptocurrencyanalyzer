@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryptocurrencyanalyzer/static/css/main.0242e19e.chunk.css",
+    "main.js": "/cryptocurrencyanalyzer/static/js/main.11f88a9f.chunk.js",
+    "main.js.map": "/cryptocurrencyanalyzer/static/js/main.11f88a9f.chunk.js.map",
+    "runtime-main.js": "/cryptocurrencyanalyzer/static/js/runtime-main.a1cf4d4c.js",
+    "runtime-main.js.map": "/cryptocurrencyanalyzer/static/js/runtime-main.a1cf4d4c.js.map",
+    "static/css/2.cc57a610.chunk.css": "/cryptocurrencyanalyzer/static/css/2.cc57a610.chunk.css",
+    "static/js/2.b8bf4161.chunk.js": "/cryptocurrencyanalyzer/static/js/2.b8bf4161.chunk.js",
+    "static/js/2.b8bf4161.chunk.js.map": "/cryptocurrencyanalyzer/static/js/2.b8bf4161.chunk.js.map",
+    "index.html": "/cryptocurrencyanalyzer/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "/cryptocurrencyanalyzer/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.0242e19e.chunk.css.map": "/cryptocurrencyanalyzer/static/css/main.0242e19e.chunk.css.map",
+    "static/js/2.b8bf4161.chunk.js.LICENSE.txt": "/cryptocurrencyanalyzer/static/js/2.b8bf4161.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1cf4d4c.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.b8bf4161.chunk.js",
+    "static/css/main.0242e19e.chunk.css",
+    "static/js/main.11f88a9f.chunk.js"
+  ]
+}
